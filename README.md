@@ -1,7 +1,7 @@
 ![](images/wtc_logo.jpg)
 
 ## WaltonChain_Gwtc
-- The gwtc_v1.0.0stable is run on ubuntu 16.04. Switch to the dirctory of the files root, use below methods to run gwtc_v1.0.0stable
+- The gwtc is run on ubuntu 16.04. Switch to the dirctory of the files root, use below methods to run gwtc.
 
 #### Method 1
 Run wtc node only need below command, it will run in a console, use command "exit" to exit: `./wtcrun.sh`
